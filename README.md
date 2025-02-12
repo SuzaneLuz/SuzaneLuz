@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-End`**
 
-Me chamo Suzane Azevedo Luz, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Centro Educacional Desafio, com o curso técnico em informática. Atualmente, estou cursando Algoritmos e Lógica de Programação na Udemy. Sou apaixonada por tecnologia e estou cada vez mais buscando aperfeicoar meus conhecimentos.
+Me chamo Suzane Azevedo Luz, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Centro Educacional Desafio, com o curso técnico em informática. Atualmente, estou cursando Algoritmos e Lógica de Programação na Udemy. Sou apaixonada por tecnologia e estou cada vez mais buscando aperfeiçoar meus conhecimentos.
 
 <p align="left">
     <a href="https://github.com/SuzaneLuz?tab=repositories">
