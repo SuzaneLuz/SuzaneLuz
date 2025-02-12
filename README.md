@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Suzane Luz
+# 💻 Suzane Luz
 
 **`Desenvolvedora Back-End`**
 
