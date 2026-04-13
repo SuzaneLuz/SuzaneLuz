@@ -1,23 +1,9 @@
 # 💻 Suzane Luz
 
-**`Desenvolvedora Back-End`**
-
-Tenho 18 anos, com formação em andamento em Manutenção de Microcomputadores pelo SENAC e conhecimentos em Fundamentos de TI, hardware e software. Tenho experiência prática com operação de equipamentos de som, como mesas de som, microfones e caixas acústicas, além de atuar como suporte em organização e logística de eventos, colaborando com montagem, suporte técnico e estrutura. Sou apaixonada por tecnologia e estou cada vez mais buscando aperfeiçoar meus conhecimentos.
+Tenho 19 anos, com formação em andamento em Engenharia de Computação e conhecimentos em Manutenção de Microcomputadores pelo SENAC. Tenho experiência prática com operação de equipamentos de som, como mesas de som, microfones e caixas acústicas, além de atuar como suporte em organização e logística de eventos, colaborando com montagem, suporte técnico e estrutura. Sou apaixonada por tecnologia e estou cada vez mais buscando aperfeiçoar meus conhecimentos.
 
 <p align="left">
     <a href="https://github.com/SuzaneLuz?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SuzaneLuz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SuzaneLuz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SuzaneLuz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     </a>
      <a href="www.linkedin.com/in/suzaneazevedoluz">
         <img 
@@ -27,10 +13,6 @@ Tenho 18 anos, com formação em andamento em Manutenção de Microcomputadores 
         />
     </a>
 </p>
-
----
-
-### 📊 Estatísticas
 
 <p>
   <img 
